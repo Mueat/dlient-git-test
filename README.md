@@ -3,7 +3,7 @@
 #### 介绍
 用户测试DLIENT的git客户端功能使用
 
-sssss modify by dtest
+sssss modify by test
 
 
 bbbb
